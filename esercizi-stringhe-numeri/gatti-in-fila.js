@@ -16,4 +16,5 @@
   utilizza Math.ceil (arrotonda sempre all'intero superiore).
 
   http://www.imparareaprogrammare.it
-*/
+*/var gatti=44;
+
